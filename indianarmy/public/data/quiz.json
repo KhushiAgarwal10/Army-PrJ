@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who led India to victory in the 1971 war against Pakistan?",
+    "options": [
+      "Sam Manekshaw",
+      "K. M. Cariappa",
+      "Bipin Rawat",
+      "Arjan Singh"
+    ],
+    "answer": "Sam Manekshaw"
+  },
+  {
+    "question": "Which is the highest military award for bravery in India?",
+    "options": [
+      "Param Vir Chakra",
+      "Shaurya Chakra",
+      "Kirti Chakra",
+      "Vir Chakra"
+    ],
+    "answer": "Param Vir Chakra"
+  },
+  {
+    "question": "What is the motto of the Indian Army?",
+    "options": [
+      "Service Before Self",
+      "Touch the Sky with Glory",
+      "Duty, Honour, Courage",
+      "Jai Hind"
+    ],
+    "answer": "Service Before Self"
+  },
+  {
+    "question": "What is the name of the operation to liberate Goa in 1961?",
+    "options": [
+      "Operation Blue Star",
+      "Operation Vijay",
+      "Operation Meghdoot",
+      "Operation Cactus"
+    ],
+    "answer": "Operation Vijay"
+  },
+  {
+    "question": "Which regiment is known as the 'Bravest of the Brave'?",
+    "options": [
+      "Gorkha Regiment",
+      "Sikh Regiment",
+      "Parachute Regiment",
+      "Maratha Light Infantry"
+    ],
+    "answer": "Gorkha Regiment"
+  },
+  {
+    "question": "Which Indian General was the first Field Marshal of India?",
+    "options": [
+      "K. M. Cariappa",
+      "Sam Manekshaw",
+      "Bipin Rawat",
+      "Sundararajan Padmanabhan"
+    ],
+    "answer": "Sam Manekshaw"
+  },
+  {
+    "question": "Which award is second in order of precedence after the Param Vir Chakra?",
+    "options": [
+      "Kirti Chakra",
+      "Ashoka Chakra",
+      "Maha Vir Chakra",
+      "Shaurya Chakra"
+    ],
+    "answer": "Maha Vir Chakra"
+  },
+  {
+    "question": "In which year was the Indian Army officially established?",
+    "options": [
+      "1857",
+      "1895",
+      "1947",
+      "1950"
+    ],
+    "answer": "1895"
+  },
+  {
+    "question": "What is the name of the Indian military operation in Siachen Glacier?",
+    "options": [
+      "Operation Siachen",
+      "Operation Meghdoot",
+      "Operation Snow Leopard",
+      "Operation White Tiger"
+    ],
+    "answer": "Operation Meghdoot"
+  },
+  {
+    "question": "Which branch of the military handles India's peacekeeping missions abroad?",
+    "options": [
+      "Indian Navy",
+      "Indian Army",
+      "Indian Air Force",
+      "NSG"
+    ],
+    "answer": "Indian Army"
+  }
+]
