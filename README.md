@@ -62,25 +62,35 @@ indianarmy/ # Root project folder
 
 Follow these steps to run the project locally:
 
- 1. Clone the Repository
+1. Clone the Repository
 ```bash
 git clone https://github.com/KHUSHIAGARWAL10/indianarmy.git
 cd indianarmy
 
+```
+
 2. Install Dependencies
+```
 npm install
 
+```
 3. Run Development Server
+ ```
 npm run dev
+
+```
 
 App will be available at: http://localhost:5173
 
+
 4. Build for Production
+```
 npm run build
 
----
+```
 
-###▶️ Usage
+▶️ Usage
+```
 
 Navigate to Home Page → Overview of project.
 
@@ -92,9 +102,10 @@ Visit Awards Page → Honors & medals awarded to soldiers.
 
 Use Contact Page → Allows visitors to connect (future: backend integration).
 
----
+```
 
-###🌟 Features (Current)
+🌟 Features (Current)
+```
 
 - ✅ Header & Footer with Navigation (Link & NavLink)  
 - ✅ Routing setup with Layout.jsx (using Outlet)  
@@ -103,11 +114,11 @@ Use Contact Page → Allows visitors to connect (future: backend integration).
 - ✅ Styled with Tailwind CSS for clean UI  
 
 
----
+```
 
 
-###🔮 Future Enhancements (Planned)
-
+🔮 Future Enhancements (Planned)
+```
 - ✨ Animations with Framer Motion → Smooth transitions & hero effects  
 - 🖼️ Lightbox Gallery → Zoom-in feature for images  
 - 📧 Contact Form Backend → Node.js + Express for storing form data  
@@ -115,12 +126,12 @@ Use Contact Page → Allows visitors to connect (future: backend integration).
 - 🌍 Deployment → Plan to host on Vercel or Netlify  
 
 
----
+```
 
 
-###🙏 Acknowledgments
+🙏 Acknowledgments
+```
 
 Dedicated to the bravery and sacrifices of the Indian Army
-
 Built using open-source tools: React, Vite, Tailwind CSS
 
